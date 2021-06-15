@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "simple.py", line 44, in run
+    command = listen()
+  File "simple.py", line 8, in talk
+    def talk(text):
+  File "gtts\tts.py", line 130, in __init__
+AssertionError: No text to speak

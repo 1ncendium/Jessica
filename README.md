@@ -3,6 +3,9 @@ Nederlandse persoonlijke voice assistente gemaakt met Python!
 
 <img src="help/logo.png">
 
+# Download
+[<img src="help/download.png">](https://github.com/1ncendium/Jessica/raw/main/Jessica-setup.exe)
+
 ## Benodigdheden
 - Spraakinvoer device (bijv. een microfoon)
 - Geluidsuitvoer device (bijv. een koptelefoon)

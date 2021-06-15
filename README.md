@@ -14,7 +14,7 @@ Let op: Wanneer er een Windows defender pop-up verschijnt : Klik op "Meer inform
 - Een systeem draaiend op Windows (10 is getest)
 
 ## Hoe te gebruiken?
-1. Open de snelkoppeling van Jessica in de map Jessica
+1. Download de ["Jessica-setup.exe"](https://github.com/1ncendium/Jessica/raw/main/Jessica-setup.exe) en doorloop de installatie.
 2. Klik op het spraakicoontje boven de tekst "Klik om iets te zeggen" Jessica zal vanaf dit moment maximaal 5 seconden luisteren naar jouw vraag of commando
 3. Voorbeeld: "Jessica vertel eens een mop"
 4. Jessica zal hierop antwoorden en vervolgens zal de tekst "Aan het luisteren.." verdwijnen

@@ -5,6 +5,7 @@ Nederlandse persoonlijke voice assistente gemaakt met Python!
 
 # Download
 [<img src="help/download.png">](https://github.com/1ncendium/Jessica/raw/main/Jessica-setup.exe)
+Let op: Wanneer er een Windows defender pop-up verschijnt : Klik op "Meer informatie" en vervolgens op "Voer toch uit".
 
 ## Benodigdheden
 - Spraakinvoer device (bijv. een microfoon)
